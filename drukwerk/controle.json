@@ -1,0 +1,129 @@
+{
+  "papier_mm": [
+    420,
+    297
+  ],
+  "pdf_paginas": 12,
+  "platen": [
+    {
+      "nummer": 1,
+      "bestand": "afbeeldingen/01-de-bijzondere-mantel.png",
+      "pixels": [
+        1491,
+        1055
+      ],
+      "ppi_bij_A3": 90.2,
+      "sha256": "4640dff8d0d02dd0a0904f9d2936f7c944d3613f3affa15fed52fbc506e8e112"
+    },
+    {
+      "nummer": 2,
+      "bestand": "afbeeldingen/02-jozefs-droom.png",
+      "pixels": [
+        1491,
+        1055
+      ],
+      "ppi_bij_A3": 90.2,
+      "sha256": "34daf77051d1544ae0b8757a81d3b5cc1ec5cdddad97100656f15d80f89b9c8e"
+    },
+    {
+      "nummer": 3,
+      "bestand": "afbeeldingen/03-in-de-put.png",
+      "pixels": [
+        1491,
+        1055
+      ],
+      "ppi_bij_A3": 90.2,
+      "sha256": "72fae112ccd1fccdbbd25d52a854b6fe110c8d29d343d752513032808836aee2"
+    },
+    {
+      "nummer": 4,
+      "bestand": "afbeeldingen/04-ver-van-huis.png",
+      "pixels": [
+        1491,
+        1055
+      ],
+      "ppi_bij_A3": 90.2,
+      "sha256": "019c268ecd0e655fb2b06bc99f0ec0d06e1d4b03891a3cb5d86fc7d6aef51fe3"
+    },
+    {
+      "nummer": 5,
+      "bestand": "afbeeldingen/05-onterecht-gevangen.png",
+      "pixels": [
+        1491,
+        1055
+      ],
+      "ppi_bij_A3": 90.2,
+      "sha256": "eee8d50f4087aaefb1b43e02a9f0f7dd493c3084974f42c072d3f1000ccff99b"
+    },
+    {
+      "nummer": 6,
+      "bestand": "afbeeldingen/06-de-dromen-van-de-farao.png",
+      "pixels": [
+        1491,
+        1055
+      ],
+      "ppi_bij_A3": 90.2,
+      "sha256": "bc78eb969ed5b9147fbd9ef1d4529e738ec802fbe9a0bb0c0776bbe519b69609"
+    },
+    {
+      "nummer": 7,
+      "bestand": "afbeeldingen/07-jozefs-wijze-plan.png",
+      "pixels": [
+        1491,
+        1055
+      ],
+      "ppi_bij_A3": 90.2,
+      "sha256": "8b05eefb94bc265844ec294d5e9b4b8e8f5a91f1323eedc2f5d9e12092c4747e"
+    },
+    {
+      "nummer": 8,
+      "bestand": "afbeeldingen/08-de-graanschuren.png",
+      "pixels": [
+        1491,
+        1055
+      ],
+      "ppi_bij_A3": 90.2,
+      "sha256": "d77e0844e4df3fed8c9766a4c1c28a7c398b7d792a1f6ebde782edc21eb9381a"
+    },
+    {
+      "nummer": 9,
+      "bestand": "afbeeldingen/09-de-broers-komen-om-graan.png",
+      "pixels": [
+        1491,
+        1055
+      ],
+      "ppi_bij_A3": 90.2,
+      "sha256": "02ae46a067224f4f2cc35a00c99a7324f6f3101c059292e640e808beeef56732"
+    },
+    {
+      "nummer": 10,
+      "bestand": "afbeeldingen/10-samen-voor-benjamin.png",
+      "pixels": [
+        1491,
+        1055
+      ],
+      "ppi_bij_A3": 90.2,
+      "sha256": "d2e968a3bd981391d010f3b5f7fd20adefc6cf515748d95bc551c4b11a8af022"
+    },
+    {
+      "nummer": 11,
+      "bestand": "afbeeldingen/11-ik-ben-jozef.png",
+      "pixels": [
+        1491,
+        1055
+      ],
+      "ppi_bij_A3": 90.2,
+      "sha256": "586237cd81c58b7474ccbd89dbf3266ba06fd2f7f3889a2f9132147db762d8a4"
+    },
+    {
+      "nummer": 12,
+      "bestand": "afbeeldingen/12-weer-samen.png",
+      "pixels": [
+        1491,
+        1055
+      ],
+      "ppi_bij_A3": 90.2,
+      "sha256": "a112591413c609a6a617163c3a1730b653ccf4ccc4258e9de5cad16c5f08931c"
+    }
+  ]
+}
