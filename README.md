@@ -2,6 +2,8 @@
 
 ## Nieuwe richting: aansluiting bij de bestaande geschilderde platen
 
+**[Studiegalerij: zes oorspronkelijke Turner-platen voor het Jozefverhaal](documentatie/studie/turner-jozef/README.md)** — met gekoppelde archiefpreviews, bronverwijzingen en een downloadscript. De previews zijn extern gekoppeld; lokale beeldbestanden konden door het netwerkbeleid nog niet worden opgeslagen.
+
 Op 22 november 2026 is een afzonderlijke proef gemaakt op basis van twee aangeleverde foto's van bestaande John Turner-platen. [Bekijk Jozef, Jakob en de elf broers](proeven/01-jozef-jakob-en-elf-broers.png). Dit is een nieuwe AI-illustratie, geen oorspronkelijke Turner-plaat. [Onderzoeksresultaten, vijf oorspronkelijke archiefbronnen en werkwijze](documentatie/onderzoek-john-turner.md) zijn vastgelegd voor vervolgwerk. De [proefnotities](proeven/README.md) bevatten de beeldinstructie en technische gegevens. De eerdere reeks hieronder blijft apart beschikbaar.
 
 ## Eerdere filmische reeks

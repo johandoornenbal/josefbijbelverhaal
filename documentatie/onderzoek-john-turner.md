@@ -10,6 +10,8 @@ Er zijn twee verschillende voorbeelden ontvangen: `IMG_0070.heic` met bijbehoren
 
 ## Gevonden oorspronkelijke publicaties
 
+Aanvulling: [de studiegalerij](studie/turner-jozef/README.md) bevat de vijf hieronder genoemde titels en de zesde kandidaat *When everyone was hungry* (LLM11760007). De catalogus plaatst die zesde bij hongersnood, graan en het oude Egypte. De galerij bevat externe watermerkpreviews; lokaal downloaden werd door het netwerkbeleid geblokkeerd. Dit is geen volledige inventaris van alle ooit uitgegeven Jozef-platen. De gebruiker heeft gevraagd uitsluitend het Jozefverhaal op te nemen.
+
 Het [kunstenaarsregister van Bridgeman Images](https://www.bridgemanimages.com/en-US/turner-john) vermeldt John Turner als Brits kunstenaar, actief in de jaren 1940–1950. De objectbeschrijvingen noemen Bijbelse wandplaten uitgegeven door Macmillan, circa 1948–1953. Dit identificeert deze illustrator beter dan een algemene zoekopdracht naar de veelvoorkomende naam John Turner.
 
 | Archieftitel | Objectnummer | Link | Mogelijke plek in het verhaal |
