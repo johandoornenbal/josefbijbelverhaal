@@ -1,5 +1,11 @@
 # Jozef — kamishibai-vertelplaten
 
+## Nieuwe richting: aansluiting bij de bestaande geschilderde platen
+
+Op 22 november 2026 is een afzonderlijke proef gemaakt op basis van twee aangeleverde foto's van bestaande John Turner-platen. [Bekijk Jozef, Jakob en de elf broers](proeven/01-jozef-jakob-en-elf-broers.png). Dit is een nieuwe AI-illustratie, geen oorspronkelijke Turner-plaat. [Onderzoeksresultaten, vijf oorspronkelijke archiefbronnen en werkwijze](documentatie/onderzoek-john-turner.md) zijn vastgelegd voor vervolgwerk. De [proefnotities](proeven/README.md) bevatten de beeldinstructie en technische gegevens. De eerdere reeks hieronder blijft apart beschikbaar.
+
+## Eerdere filmische reeks
+
 Twaalf tekstloze, liggende vertelplaten over Jozef, bedoeld voor een kamishibai-theater en kinderen rond zeven jaar. De beelden hebben een realistische, filmische uitstraling: herkenbare mensen, natuurlijke stoffen, warme belichting en duidelijke emoties.
 
 **[Download de twaalf platen als A3-PDF](drukwerk/jozef-vertelplaten-A3.pdf)** · **[Bekijk het overzicht](drukwerk/overzicht.jpg)** · **[Lees de verteltekst](VERHAAL.md)**
